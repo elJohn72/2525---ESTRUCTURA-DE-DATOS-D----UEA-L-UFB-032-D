@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/bin/Debug/net9.0/FigurasGeometricas
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/bin/Debug/net9.0/FigurasGeometricas.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/bin/Debug/net9.0/FigurasGeometricas.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/bin/Debug/net9.0/FigurasGeometricas.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/bin/Debug/net9.0/FigurasGeometricas.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/refint/FigurasGeometricas.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/FigurasGeometricas.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/FigurasGeometricas/obj/Debug/net9.0/ref/FigurasGeometricas.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FigurasGeometricas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ArrayYMatrices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4f540ac844d2008831e327107f846f530b1d00")]
-[assembly: System.Reflection.AssemblyProductAttribute("FigurasGeometricas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FigurasGeometricas")]
+[assembly: System.Reflection.AssemblyProductAttribute("ArrayYMatrices")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ArrayYMatrices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

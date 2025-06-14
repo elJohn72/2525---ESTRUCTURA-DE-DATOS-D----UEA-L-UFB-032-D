@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/bin/Debug/net9.0/ArrayYMatrices
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/bin/Debug/net9.0/ArrayYMatrices.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/bin/Debug/net9.0/ArrayYMatrices.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/bin/Debug/net9.0/ArrayYMatrices.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/bin/Debug/net9.0/ArrayYMatrices.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/refint/ArrayYMatrices.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ArrayYMatrices.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArrayYMatrices/obj/Debug/net9.0/ref/ArrayYMatrices.dll

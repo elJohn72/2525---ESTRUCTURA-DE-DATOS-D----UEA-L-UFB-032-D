@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/bin/Debug/net9.0/AgendaTurnosClinica
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/bin/Debug/net9.0/AgendaTurnosClinica.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/bin/Debug/net9.0/AgendaTurnosClinica.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/bin/Debug/net9.0/AgendaTurnosClinica.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/bin/Debug/net9.0/AgendaTurnosClinica.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/refint/AgendaTurnosClinica.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/AgendaTurnosClinica.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/AgendaTurnosClinica/obj/Debug/net9.0/ref/AgendaTurnosClinica.dll

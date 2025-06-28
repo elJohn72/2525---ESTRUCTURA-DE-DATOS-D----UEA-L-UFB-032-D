@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/bin/Debug/net9.0/ejercicio1
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/bin/Debug/net9.0/ejercicio1.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/bin/Debug/net9.0/ejercicio1.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/bin/Debug/net9.0/ejercicio1.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/bin/Debug/net9.0/ejercicio1.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/refint/ejercicio1.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ejercicio1.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/EjerciciosSemana5/ejercicio1/obj/Debug/net9.0/ref/ejercicio1.dll

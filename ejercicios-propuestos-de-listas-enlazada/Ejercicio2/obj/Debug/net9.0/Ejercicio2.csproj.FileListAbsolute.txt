@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/bin/Debug/net9.0/Ejercicio2
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/bin/Debug/net9.0/Ejercicio2.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/bin/Debug/net9.0/Ejercicio2.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/bin/Debug/net9.0/Ejercicio2.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/bin/Debug/net9.0/Ejercicio2.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/refint/Ejercicio2.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/Ejercicio2.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ejercicios-propuestos-de-listas-enlazada/Ejercicio2/obj/Debug/net9.0/ref/Ejercicio2.dll

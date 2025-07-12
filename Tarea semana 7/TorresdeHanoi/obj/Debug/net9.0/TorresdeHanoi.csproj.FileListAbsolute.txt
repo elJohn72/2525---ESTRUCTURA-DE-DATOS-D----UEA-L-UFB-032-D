@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/bin/Debug/net9.0/TorresdeHanoi
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/bin/Debug/net9.0/TorresdeHanoi.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/bin/Debug/net9.0/TorresdeHanoi.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/bin/Debug/net9.0/TorresdeHanoi.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/bin/Debug/net9.0/TorresdeHanoi.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/refint/TorresdeHanoi.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/TorresdeHanoi.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Tarea semana 7/TorresdeHanoi/obj/Debug/net9.0/ref/TorresdeHanoi.dll

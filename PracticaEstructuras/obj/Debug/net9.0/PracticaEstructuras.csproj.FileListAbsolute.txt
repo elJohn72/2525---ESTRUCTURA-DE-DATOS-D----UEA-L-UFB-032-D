@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/bin/Debug/net9.0/PracticaEstructuras
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/bin/Debug/net9.0/PracticaEstructuras.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/bin/Debug/net9.0/PracticaEstructuras.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/bin/Debug/net9.0/PracticaEstructuras.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/bin/Debug/net9.0/PracticaEstructuras.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/refint/PracticaEstructuras.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/PracticaEstructuras.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/PracticaEstructuras/obj/Debug/net9.0/ref/PracticaEstructuras.dll

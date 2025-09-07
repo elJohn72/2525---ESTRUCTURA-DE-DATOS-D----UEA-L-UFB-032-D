@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroTorneoFutbol", "RegistroTorneoFutbol\RegistroTorneoFutbol.csproj", "{4C190D1A-3704-36C3-C5DB-A77D0AF2504D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C190D1A-3704-36C3-C5DB-A77D0AF2504D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C190D1A-3704-36C3-C5DB-A77D0AF2504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C190D1A-3704-36C3-C5DB-A77D0AF2504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C190D1A-3704-36C3-C5DB-A77D0AF2504D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD38F3E-CFDE-4978-A5DD-E50ED9036E78}
+	EndGlobalSection
+EndGlobal

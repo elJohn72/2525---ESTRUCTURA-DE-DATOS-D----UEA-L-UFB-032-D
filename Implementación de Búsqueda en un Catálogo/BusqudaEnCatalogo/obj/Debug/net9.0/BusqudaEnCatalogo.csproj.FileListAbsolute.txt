@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/bin/Debug/net9.0/BusqudaEnCatalogo
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/bin/Debug/net9.0/BusqudaEnCatalogo.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/bin/Debug/net9.0/BusqudaEnCatalogo.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/bin/Debug/net9.0/BusqudaEnCatalogo.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/bin/Debug/net9.0/BusqudaEnCatalogo.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/refint/BusqudaEnCatalogo.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/BusqudaEnCatalogo.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/Implementación de Búsqueda en un Catálogo/BusqudaEnCatalogo/obj/Debug/net9.0/ref/BusqudaEnCatalogo.dll

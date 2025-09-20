@@ -1,0 +1,15 @@
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/bin/Debug/net9.0/ArbolBinarioInteractivo
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/bin/Debug/net9.0/ArbolBinarioInteractivo.deps.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/bin/Debug/net9.0/ArbolBinarioInteractivo.runtimeconfig.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/bin/Debug/net9.0/ArbolBinarioInteractivo.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/bin/Debug/net9.0/ArbolBinarioInteractivo.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.AssemblyInfoInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.AssemblyInfo.cs
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.csproj.CoreCompileInputs.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.sourcelink.json
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/refint/ArbolBinarioInteractivo.dll
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.pdb
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ArbolBinarioInteractivo.genruntimeconfig.cache
+/Users/eljhon72/Estructura de datos/Proyectos/2525---ESTRUCTURA-DE-DATOS-D----UEA-L-UFB-032-D/ArbolBinarioInteractivo/ArbolBinarioInteractivo/obj/Debug/net9.0/ref/ArbolBinarioInteractivo.dll

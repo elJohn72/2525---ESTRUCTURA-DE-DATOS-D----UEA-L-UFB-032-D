@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafosTransporte", "GrafosTransporte.csproj", "{892FEBAA-7696-B9A1-FE1F-3C7B167442B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892FEBAA-7696-B9A1-FE1F-3C7B167442B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892FEBAA-7696-B9A1-FE1F-3C7B167442B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892FEBAA-7696-B9A1-FE1F-3C7B167442B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892FEBAA-7696-B9A1-FE1F-3C7B167442B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {122BCAE3-31FA-48A7-8F8A-A84C9C979CF2}
+	EndGlobalSection
+EndGlobal
